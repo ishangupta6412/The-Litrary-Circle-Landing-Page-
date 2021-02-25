@@ -1,0 +1,20 @@
+h1.marquee{
+    font-variant: small-caps;
+    font-style: inherit;
+}
+
+p.firstpara{
+    font-size: xx-large;
+
+}
+
+p.secondpara{
+    font-size: xx-large;
+
+}
+
+#fb{
+    width: 10em;
+    height: 10em;
+    border-radius: 20em;
+}
